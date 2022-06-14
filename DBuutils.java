@@ -1,2 +1,2 @@
-hello friends..
-this is java file 
+hello friends....
+db logic added
